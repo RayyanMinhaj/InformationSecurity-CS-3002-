@@ -98,7 +98,7 @@ means to deal with an attack
 
 A measure of the extent of damage incase of an attack.
 
-![Untitled](Chapter%201%20Overview%20c82411f496ed457b9d261328926233e5/Untitled.png)
+![Untitled](IMAGES/chap1.png)
 
 ---
 
