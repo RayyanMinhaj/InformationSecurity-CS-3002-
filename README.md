@@ -8,7 +8,7 @@ Open to contribution in the future since this will go public and currently will 
 
 [Chapter 1: Overview]([https://www.notion.so/Chapter-1-Overview-c82411f496ed457b9d261328926233e5?pvs=21](https://chipped-divan-df8.notion.site/Chapter-1-Overview-c82411f496ed457b9d261328926233e5))
 
-[Chapter 2: Cryptographic Tools](https://www.notion.so/Chapter-2-Cryptographic-Tools-ae26ea57e99f4c78baa08e62799eb27f?pvs=21)
+[Chapter 2: Cryptographic Tools]([https://www.notion.so/Chapter-2-Cryptographic-Tools-ae26ea57e99f4c78baa08e62799eb27f?pvs=21](https://chipped-divan-df8.notion.site/Chapter-2-Cryptographic-Tools-ae26ea57e99f4c78baa08e62799eb27f)
 
 [Chapter 3: User Authentication](https://www.notion.so/Chapter-3-User-Authentication-7ad44ba8b5484ba0a1f99beb674aed41?pvs=21)
 
